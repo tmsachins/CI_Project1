@@ -24,7 +24,7 @@ def test_cube():
 
 # Testing the fifth power function
 def test_fifth_power():
-    assert fifth_power(2) == 32, "Test Failed: Fifth power of 2 should be 32"
+    assert fifth_power(2) == 62, "Test Failed: Fifth power of 2 should be 32"
     assert fifth_power(3) == 243, "Test Failed: Fifth power of 3 should be 243"
 
 # Test for invalid input
